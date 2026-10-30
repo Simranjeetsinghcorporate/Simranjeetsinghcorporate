@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Simranjeet Singh  
 ### Data Analytics | SQL | Python | Power BI | Excel | Tableau
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2b2b2b&center=true&width=700&lines=Data+Analytics+Skilled+in+SQL%2C+Python%2C+Power+BI;Transforming+Data+into+Clear+Business+Insights;Analytical+Mindset+%7C+Detail-Oriented+%7C+Problem+Solver;" />
-</p>
-
 ---
 
 ## 🎯 About Me  
