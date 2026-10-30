@@ -1,22 +1,19 @@
 # 👋 Hi, I'm Simranjeet Singh  
 ### Data Analytics | SQL | Python | Power BI | Excel | Tableau
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2b2b2b&center=true&width=700&lines=Data+Analytics+Skilled+in+SQL%2C+Python%2C+Power+BI;Transforming+Data+into+Clear+Business+Insights;Analytical+Mindset+%7C+Detail-Oriented+%7C+Problem+Solver;" />
+</p>
+
 ---
 
 ## 🎯 About Me  
-I am a **Data Analyst** with hands-on experience in **Python, SQL, Power BI, Tableau, and Excel**, focused on extracting insights and solving real business problems.  
+I am a **Data Analyst** with 7+ years of hands-on experience in **Python, SQL, Power BI, Tableau, and Excel**, focused on extracting insights and solving real business problems.  
 I love working with data — cleaning, analyzing, visualizing, and turning it into **actionable insights** for decision-making.
 
 I enjoy working with data end to end — from cleaning and exploring raw datasets
 to building dashboards and delivering clear, actionable business insights that
 support data-driven decision-making.
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/priyankadatacodes/priyankadatacodes/main/data-analyst-girl-animated.gif.gif"
-    alt="Animated Data Analyst Illustration"
-    style="max-width:100%; height:auto;"
-  />
-</p>
 
 
 
@@ -69,6 +66,8 @@ support data-driven decision-making.
 
 A curated collection of data analytics projects showcasing real-world problem solving,
 business insights, and dashboards.
+
+📂 **All projects (GitHub + Kaggle):** 
 
 
 ---
