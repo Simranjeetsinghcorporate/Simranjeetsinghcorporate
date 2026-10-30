@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:** Transforming raw datasets into meaningful insights through data analysis, interactive dashboards, and real-world business intelligence projects. 📊<br><br>👯 **I’m looking to collaborate on:** Data-driven projects where I can uncover hidden trends, solve business problems, and turn complex datasets into actionable insights. 🚀<br><br>🤝 **I’m looking for help with:** Exploring advanced analytical techniques, optimizing SQL queries, and developing impactful dashboards that drive smarter, data-informed decisions. 💡<br><br>🌱 **I’m currently learning:** Advanced SQL, Python for data analysis, data visualization, and business intelligence to continuously sharpen my analytical skills and stay ahead in the evolving world of data. 📈<br><br>💬 **Ask me about:** SQL, Python, Excel, Power BI, data cleaning, exploratory data analysis (EDA), and transforming complex data into clear, compelling business stories. 🐍<br><br>⚡ **Fun fact:** I believe every dataset has a story to tell — and I love uncovering the hidden insights that turn numbers into meaningful decisions! 🔍
+🔭 **I’m currently working on:** Transforming raw datasets into meaningful insights through data analysis, interactive dashboards, and real-world business intelligence projects. <br><br>👯 **I’m looking to collaborate on:** Data-driven projects where I can uncover hidden trends, solve business problems, and turn complex datasets into actionable insights. <br><br>🤝 **I’m looking for help with:** Exploring advanced analytical techniques, optimizing SQL queries, and developing impactful dashboards that drive smarter, data-informed decisions. <br><br>🌱 **I’m currently learning:** Advanced SQL, Python for data analysis, data visualization, and business intelligence to continuously sharpen my analytical skills and stay ahead in the evolving world of data. <br><br>💬 **Ask me about:** SQL, Python, Excel, Power BI, data cleaning, exploratory data analysis (EDA), and transforming complex data into clear, compelling business stories. <br><br>⚡ **Fun fact:** I believe every dataset has a story to tell — and I love uncovering the hidden insights that turn numbers into meaningful decisions! 🔍
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=Simranjeetsinghcorporate&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Simranjeetsinghcorporate&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Simranjeetsinghcorporate&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Simranjeetsinghcorporate&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
